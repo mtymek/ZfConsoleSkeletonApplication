@@ -1,0 +1,15 @@
+{
+    "name": "mtymek/zf-console-example",
+    "description": "Example application based on zf-console",
+    "license": "BSD-2-Clause",
+    "homepage": "http://mateusztymek.pl/",
+    "require": {
+        "php": ">=5.4",
+        "zfcampus/zf-console": "1.*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Application\\": "src/Application"
+        }
+    }
+}
