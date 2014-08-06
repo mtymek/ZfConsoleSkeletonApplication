@@ -1,6 +1,6 @@
 {
-    "name": "mtymek/zf-console-example",
-    "description": "Example application based on zf-console",
+    "name": "mtymek/zf-console-skeleton",
+    "description": "Skeleton that can be used as a base for console applications.",
     "license": "BSD-2-Clause",
     "homepage": "http://mateusztymek.pl/",
     "require": {

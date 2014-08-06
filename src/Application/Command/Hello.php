@@ -2,7 +2,6 @@
 
 namespace Application\Command;
 
-
 use Zend\Console\Adapter\AdapterInterface;
 use Zend\Console\ColorInterface;
 use ZF\Console\Route;
