@@ -16,7 +16,7 @@ Installation
 
 ```bash
 curl -s https://getcomposer.org/installer | php --
-php composer.phar create-project mtymek/zf-console-skeleton path/to/install
+php composer.phar create-project -sdev mtymek/zf-console-skeleton path/to/install
 ```
 
 Usage
