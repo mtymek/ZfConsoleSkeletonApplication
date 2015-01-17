@@ -6,7 +6,7 @@ Skeleton that can be used as a base for console applications.
 About this project
 ------------------
 
-See [my original blog post](http://mateusztymek.pl/blog/zf-console-php-microframework-for-console-applications.).
+See [my original blog post](http://mateusztymek.pl/blog/zf-console-php-microframework-for-console-applications).
 
 ZF-Console: [link](https://github.com/zfcampus/zf-console)
 
